@@ -1,0 +1,19 @@
+﻿
+
+#banner {
+    height:170px;
+    border: 3px solid #8db8d8;
+    background-image: url('Images/Door_Banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#navigation {  
+    height: 43px;
+    background-color:lightblue;
+}
+
+#GridView1 {
+  padding-left:50px;
+    margin-left: 0px;
+}
